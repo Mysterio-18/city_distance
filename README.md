@@ -1,4 +1,4 @@
-# city_distance
+# Vzdálenost měst
 Program změří vzdálenost mezi dvěma městy.
 
 ## Předpoklady
