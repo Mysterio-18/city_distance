@@ -6,6 +6,7 @@ K vytvoření .jar souboru použijte [maven](https://maven.apache.org/)
 ```bash
 maven package
 ```
+Soubor .jar poté naleznete v adresáři `./target`
 ## Použití
 
 ```bash
@@ -18,4 +19,4 @@ Jako jednotky lze zvolit míle. Implicitně jsou nastaveny kilometry.
 java -jar city_distance.jar Praha Brno míle
 ```
 
-Pro nápovědu lze spustit s parametry -h nebo --help.
+Pro nápovědu lze spustit s parametry `-h` nebo `--help`.
